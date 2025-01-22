@@ -1,2 +1,2 @@
 # premiun-bikes
-primem bikes
+Primium bikes
